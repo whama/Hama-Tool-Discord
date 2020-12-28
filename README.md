@@ -1,4 +1,4 @@
-# Hama-Account-Nuker
+# Hama-Tool
 Account nuker, discord token fucker for discord. (will revamp/fix soon.)
 
 
