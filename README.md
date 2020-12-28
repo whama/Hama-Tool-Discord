@@ -2,7 +2,6 @@
 Account nuker, discord token fucker for discord. (will revamp/fix soon.)
 
 
-No Need Requirements.txt
 # Install chromedriver.exe
   - https://chromedriver.chromium.org/downloads
 To Login Account woth token
