@@ -168,7 +168,7 @@ def getBanner():
  ░  ░  ░      ░  ░       ░         ░  ░                                      
 Created By Hama
 
-    '''.replace('░', f'{Fore.RED}░{Fore.RESET}')
+    '''.replace('░', f'{Fore.BLUE}░{Fore.RESET}')
     return banner
 
 def startMenu():
