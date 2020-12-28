@@ -156,7 +156,6 @@ def getBanner():
                 [{Fore.BLUE}1{Fore.RESET}] Token fuck the account
                 [{Fore.BLUE}2{Fore.RESET}] Get info about the account
                 [{Fore.BLUE}3{Fore.RESET}] Log into a account with token
-                [{Fore.BLUE}4{Fore.RESET}] 
 
  ██░ ██  ▄▄▄       ███▄ ▄███▓ ▄▄▄      
 ▓██░ ██▒▒████▄    ▓██▒▀█▀ ██▒▒████▄    
